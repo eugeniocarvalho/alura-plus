@@ -102,3 +102,8 @@ body {
 .botao__assinar {
   width: max-content;
 }
+
+.quaternario {
+  align-items: center;
+  margin: 0 6rem;
+}
