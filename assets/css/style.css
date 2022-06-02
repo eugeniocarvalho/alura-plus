@@ -107,3 +107,23 @@ body {
   align-items: center;
   margin: 0 6rem;
 }
+
+.dispositivos {
+  text-align: center;
+}
+
+.lista__dispositivos {
+  display: flex;
+  justify-content: center;
+  margin: 5rem 0;
+}
+
+.lista__item {
+  list-style-type: none;
+}
+
+.lista__item-texto {
+  font-size: 2rem;
+  color: var(--branco-principal);
+  font-weight: 700;
+}
