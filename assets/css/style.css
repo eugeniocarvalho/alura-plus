@@ -85,3 +85,20 @@ body {
   font-weight: 400;
   color: var(--cinza-secundario);
 }
+
+.terciario {
+  align-items: center;
+  margin: 0 1rem;
+}
+
+.container__terciario {
+  padding: 5rem;
+}
+
+.terciario__texto {
+  margin-bottom: 1rem;
+}
+
+.botao__assinar {
+  width: max-content;
+}
