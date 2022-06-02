@@ -64,3 +64,24 @@ body {
 .container__imagem {
   margin: 1rem 0 2rem 0;
 }
+
+.secundario {
+  align-items: center;
+  margin: 0 10rem;
+}
+
+.secundario__imagem {
+  width: 80%;
+}
+
+.descricao__titulo {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.1rem;
+}
+
+.descricao__texto {
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--cinza-secundario);
+}
